@@ -1,0 +1,50 @@
+.navbar-inverse {
+    background-color:#005580;
+   
+  }
+  body{
+    background-color: rgba(0,200,200,0.1);
+  }
+  #mobilecart, #home,#login{
+    color: white;
+  }
+  #cart{
+    color: white;
+    padding-left: 123rem;
+  }
+  #heading{
+    margin-top: 7%;
+  }
+  #container{
+    padding-top:5%; display: flex;
+  }
+  #card1{
+    height: 320px;width: 19rem;border: 1px solid rgba(0, 0, 0, 0.173) ;
+    box-shadow:5px 5px 5px rgba(30,40, 50, 0.5) ;
+    background-color:white;
+}
+#img1, #img2{
+    padding-left: 20px;
+}
+#cardbody1 ,#cardbody2,#cardbody3{
+    padding-left: 10px;
+}
+#cardtext1,#cardtext2,#cardtext3{
+    cursor: pointer;
+}
+#pName0,#pName1,#pName2{
+    color: blue;font-weight: bold;
+}
+#card2{
+    margin-left: 220px; height: 300;width: 19rem; 
+    border: 1px solid rgba(0, 0, 0, 0.173);box-shadow: 5px 5px 5px rgba(30, 40, 50, 0.5);
+    background-color:white
+}
+#card3{
+    margin-top:0px;margin-left: 220px; height: 300;width: 19rem;
+     border: 1px solid rgba(0, 0, 0, 0.173);box-shadow: 5px 5px 5px rgba(30, 40, 50, 0.5);
+     background-color:white
+}
+#img3{
+    padding-left: 10px;
+}
